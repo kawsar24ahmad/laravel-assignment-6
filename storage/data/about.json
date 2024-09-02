@@ -1,0 +1,74 @@
+{
+    "summary": {
+      "name":"Kawsar Ahmad",
+      
+      "title": [ "Web Designer","Web Developer"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "personal_info": {
+      "birthday": "1 Feb 1997",
+      "website": "www.example.com",
+      "phone": "+8801743735543",
+      "city": "Feni, Bangladesh",
+      "age": 27,
+      "degree": "Master",
+      "email": "email@example.com",
+      "freelance": "Available"
+    },
+    "statistics": {
+      "happy_clients": 232,
+      "projects": 521,
+      "hours_of_support": 1463,
+      "hard_workers": 15
+    },
+    "skills": {
+      "HTML": "100%",
+      "CSS": "90%",
+      "JavaScript": "75%",
+      "PHP": "80%",
+      "WordPress/CMS": "90%",
+      "Photoshop": "55%"
+    },
+    "features": [
+      "Lorem Ipsum",
+      "Dolor Sitema",
+      "Sed perspiciatis",
+      "Magni Dolores",
+      "Nemo Enim",
+      "Eiusmod Tempor",
+      "Midela Teren",
+      "Pira Neve",
+      "Dirada Pack",
+      "Moton Ideal",
+      "Verdo Park",
+      "Flavor Nivelanda"
+    ],
+    "testimonials": [
+      {
+        "name": "Saul Goodman",
+        "title": "Ceo & Founder",
+        "quote": "Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper."
+      },
+      {
+        "name": "Sara Wilsson",
+        "title": "Designer",
+        "quote": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+      },
+      {
+        "name": "Jena Karlis",
+        "title": "Store Owner",
+        "quote": "Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim."
+      },
+      {
+        "name": "Matt Brandon",
+        "title": "Freelancer",
+        "quote": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam."
+      },
+      {
+        "name": "John Larson",
+        "title": "Entrepreneur",
+        "quote": "Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid."
+      }
+    ]
+  }
+  

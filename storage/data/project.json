@@ -1,0 +1,86 @@
+[
+  {
+    "id":1,
+    "title": "App 1",
+    "description": "Lorem ipsum, dolor sit amet consectetur",
+    "image": "assets/img/portfolio/app-1.jpg",
+    "preview_link": "assets/img/portfolio/app-1.jpg",
+    "details": {
+      "client": "Client Name 1",
+      "date": "January 2023",
+      "services": ["UI/UX Design", "Development", "Marketing"],
+      "project_url": "https://example.com/project1"
+    }
+  },
+  {
+    "id":2,
+    "title": "App 2",
+    "description": "Lorem ipsum, dolor sit amet consectetur",
+    "image": "assets/img/portfolio/app-2.jpg",
+    "preview_link": "assets/img/portfolio/app-2.jpg",
+    "details": {
+      "client": "Client Name 2",
+      "date": "February 2023",
+      "services": ["UI/UX Design", "Development"],
+      "project_url": "https://example.com/project2"
+    }
+  },
+  {
+    "id":3,
+    "title": "App 3",
+    "description": "Lorem ipsum, dolor sit amet consectetur",
+    "image": "assets/img/portfolio/app-3.jpg",
+    "preview_link": "assets/img/portfolio/app-3.jpg",
+    "details": {
+      "client": "Client Name 3",
+      "date": "March 2023",
+      "services": ["Development", "Marketing"],
+      "project_url": "https://example.com/project3"
+    }
+  },
+  {
+    "id":4,
+    "title": "Books 1",
+    "description": "Lorem ipsum, dolor sit amet consectetur",
+    "image": "assets/img/portfolio/books-1.jpg",
+    "preview_link": "assets/img/portfolio/books-1.jpg",
+    "details_link": "portfolio-details.html",
+    "details": {
+      "client": "Author Name 1",
+      "date": "October 2023",
+      "genre": "Fiction",
+      "isbn": "978-3-16-148410-0",
+      "project_url": "https://example.com/book1"
+    }
+  },
+  {
+    "id":5,
+    "title": "Books 2",
+    "description": "Lorem ipsum, dolor sit amet consectetur",
+    "image": "assets/img/portfolio/books-2.jpg",
+    "preview_link": "assets/img/portfolio/books-2.jpg",
+    "details_link": "portfolio-details.html",
+    "details": {
+      "client": "Author Name 2",
+      "date": "November 2023",
+      "genre": "Non-Fiction",
+      "isbn": "978-1-56619-909-4",
+      "project_url": "https://example.com/book2"
+    }
+  },
+  {
+    "id":6,
+    "title": "Books 3",
+    "description": "Lorem ipsum, dolor sit amet consectetur",
+    "image": "assets/img/portfolio/books-3.jpg",
+    "preview_link": "assets/img/portfolio/books-3.jpg",
+    "details_link": "portfolio-details.html",
+    "details": {
+      "client": "Author Name 3",
+      "date": "December 2023",
+      "genre": "Fantasy",
+      "isbn": "978-0-262-13472-9",
+      "project_url": "https://example.com/book3"
+    }
+  }
+]

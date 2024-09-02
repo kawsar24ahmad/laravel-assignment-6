@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "The Future of AI Technology",
+      "author": "Jane Doe",
+      "date": "2024-08-25",
+      "category": "Technology",
+      "tags": ["AI", "Machine Learning", "Future"],
+      "content": "Artificial Intelligence is rapidly evolving. In this post, we'll explore the latest advancements and what they mean for the future of technology."
+    },
+    {
+      "id": 2,
+      "title": "10 Tips for Better Work-Life Balance",
+      "author": "John Smith",
+      "date": "2024-08-26",
+      "category": "Lifestyle",
+      "tags": ["Work-Life Balance", "Productivity", "Wellness"],
+      "content": "Finding the right balance between work and personal life can be challenging. Here are ten practical tips to help you manage both effectively."
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Wonders of the Mediterranean",
+      "author": "Emily Davis",
+      "date": "2024-08-27",
+      "category": "Travel",
+      "tags": ["Travel", "Mediterranean", "Vacation"],
+      "content": "The Mediterranean region offers breathtaking scenery and rich cultural experiences. Join us as we take a virtual tour of some of its most stunning destinations."
+    },
+    {
+      "id": 4,
+      "title": "How to Cook the Perfect Steak",
+      "author": "Michael Brown",
+      "date": "2024-08-28",
+      "category": "Food",
+      "tags": ["Cooking", "Steak", "Recipes"],
+      "content": "Cooking a steak to perfection requires technique and attention to detail. Learn the secrets to achieving a perfectly cooked steak every time."
+    },
+    {
+      "id": 5,
+      "title": "Understanding Blockchain Technology",
+      "author": "Sarah Wilson",
+      "date": "2024-08-29",
+      "category": "Technology",
+      "tags": ["Blockchain", "Cryptocurrency", "Tech"],
+      "content": "Blockchain technology is transforming various industries. This post breaks down the fundamentals of blockchain and its potential applications."
+    },
+    {
+      "id": 6,
+      "title": "Essential Gardening Tips for Beginners",
+      "author": "David Lee",
+      "date": "2024-08-30",
+      "category": "Lifestyle",
+      "tags": ["Gardening", "Beginners", "Tips"],
+      "content": "Starting a garden can be overwhelming. Here are some essential tips to help beginners get started and cultivate a thriving garden."
+    },
+    {
+      "id": 7,
+      "title": "The Rise of Remote Work",
+      "author": "Olivia Martinez",
+      "date": "2024-08-31",
+      "category": "Business",
+      "tags": ["Remote Work", "Work Culture", "Productivity"],
+      "content": "Remote work has become increasingly popular. This post examines the benefits and challenges of remote work and offers insights into how to make it work for you."
+    },
+    {
+      "id": 8,
+      "title": "A Guide to Sustainable Living",
+      "author": "Daniel Johnson",
+      "date": "2024-09-01",
+      "category": "Lifestyle",
+      "tags": ["Sustainability", "Eco-Friendly", "Living Green"],
+      "content": "Sustainable living is more important than ever. Discover practical tips and strategies for reducing your environmental footprint and living a greener life."
+    },
+    {
+      "id": 9,
+      "title": "Top 5 Tech Gadgets of 2024",
+      "author": "Laura Green",
+      "date": "2024-09-02",
+      "category": "Technology",
+      "tags": ["Tech Gadgets", "Innovation", "2024"],
+      "content": "Stay ahead of the curve with our roundup of the top tech gadgets for 2024. Find out which innovations are making waves in the tech world this year."
+    },
+    {
+      "id": 10,
+      "title": "Mastering the Art of Photography",
+      "author": "James Clark",
+      "date": "2024-09-03",
+      "category": "Arts",
+      "tags": ["Photography", "Art", "Tips"],
+      "content": "Photography is both an art and a science. Learn the key techniques and tips to enhance your skills and capture stunning photographs."
+    }
+  ]
+  
